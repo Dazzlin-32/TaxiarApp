@@ -1,0 +1,113 @@
+[
+    {
+      "destination": "Bole International Airport",
+      "origin": "Piassa",
+      "date": "2025-01-01",
+      "price": "350 ETB",
+      "confirmation": true,
+      "taxiType": "Sedan",
+      "driverName": "Abebe Tadesse",
+      "tip": "50 ETB",
+      "rating": "4.5"
+    },
+    {
+      "destination": "Megenagna",
+      "origin": "Sar Bet",
+      "date": "2025-01-02",
+      "price": "200 ETB",
+      "confirmation": true,
+      "taxiType": "Minivan",
+      "driverName": "Hana Tsegaye",
+      "tip": "30 ETB",
+      "rating": "4.7"
+    },
+    {
+      "destination": "Kazanchis",
+      "origin": "Gerji",
+      "date": "2025-01-03",
+      "price": "180 ETB",
+      "confirmation": true,
+      "taxiType": "SUV",
+      "driverName": "Tesfaye Mekonnen",
+      "tip": "20 ETB",
+      "rating": "4.8"
+    },
+    {
+      "destination": "Addis Ababa University",
+      "origin": "Mexico Square",
+      "date": "2025-01-04",
+      "price": "250 ETB",
+      "confirmation": true,
+      "taxiType": "Sedan",
+      "driverName": "Yohannes Desta",
+      "tip": "40 ETB",
+      "rating": "4.6"
+    },
+    {
+      "destination": "CMC Michael",
+      "origin": "Bole Medhanealem",
+      "date": "2025-01-05",
+      "price": "300 ETB",
+      "confirmation": true,
+      "taxiType": "Minivan",
+      "driverName": "Almaz Worku",
+      "tip": "50 ETB",
+      "rating": "4.9"
+    },
+    {
+      "destination": "Shola Market",
+      "origin": "Megenagna",
+      "date": "2025-01-06",
+      "price": "150 ETB",
+      "confirmation": true,
+      "taxiType": "Hatchback",
+      "driverName": "Kibrom Solomon",
+      "tip": "10 ETB",
+      "rating": "4.3"
+    },
+    {
+      "destination": "Merkato",
+      "origin": "Piassa",
+      "date": "2025-01-07",
+      "price": "170 ETB",
+      "confirmation": true,
+      "taxiType": "Sedan",
+      "driverName": "Semira Ahmed",
+      "tip": "25 ETB",
+      "rating": "4.7"
+    },
+    {
+      "destination": "Gurd Shola",
+      "origin": "Bole International Airport",
+      "date": "2025-01-08",
+      "price": "320 ETB",
+      "confirmation": true,
+      "taxiType": "SUV",
+      "driverName": "Solomon Abebe",
+      "tip": "40 ETB",
+      "rating": "4.8"
+    },
+    {
+      "destination": "Lebu",
+      "origin": "Sar Bet",
+      "date": "2025-01-09",
+      "price": "280 ETB",
+      "confirmation": true,
+      "taxiType": "Minivan",
+      "driverName": "Abel Teshome",
+      "tip": "35 ETB",
+      "rating": "4.6"
+    },
+    {
+      "destination": "Jemo",
+      "origin": "Addis Ababa University",
+      "date": "2025-01-10",
+      "price": "400 ETB",
+      "confirmation": true,
+      "taxiType": "SUV",
+      "driverName": "Biruk Kebede",
+      "tip": "60 ETB",
+      "rating": "5.0"
+    }
+  ]
+  

@@ -1,0 +1,38 @@
+{
+    "rider": {
+      "name": "Marta K.",
+      "rating": 4.9
+    },
+    "pickup": {
+      "address": "Piazza, Addis Ababa",
+      "coordinates": {
+        "latitude": 9.0382,
+        "longitude": 38.7612
+      },
+      "instructions": "I'll be near St. George’s Cathedral, wearing a green scarf."
+    },
+    "dropoff": {
+      "address": "Bole International Airport, Terminal 1",
+      "coordinates": {
+        "latitude": 8.9806,
+        "longitude": 38.7996
+      }
+    },
+    "trip": {
+      "type": "Taxiar",
+      "distance_km": 7.0,
+      "duration_minutes": 25,
+      "estimated_fare": 250,
+      "surge_multiplier": 1.0
+    },
+    "driver": {
+      "distance_to_pickup_km": 2.5,
+      "time_to_pickup_minutes": 8
+    },
+    "additional_info": {
+      "passengers": 1,
+      "luggage": "1 medium suitcase",
+      "special_requests": "None"
+    }
+  }
+  
