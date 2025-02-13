@@ -256,7 +256,7 @@ const Map = ({status}) => {
                     <MapViewDirections
                         origin={{latitude: origin?.lat, longitude:  origin?.lng}}
                         destination={{latitude: destination?.lat, longitude:  destination?.lng}}
-                        apikey='AIzaSyADC8vNOrfbGctE3a_xcwfHUBdjzg-_8vA'
+                        apikey='YOUR-API-KEY'
                         strokeWidth={3}
                         strokeColor='red'
                         onError={(errorMessage) => console.warn('Directions Error:', errorMessage)}
