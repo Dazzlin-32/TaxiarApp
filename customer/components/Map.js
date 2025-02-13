@@ -118,7 +118,7 @@ const Map = () => {
                                   fetchDetails={true}
                                   placeholder='Enter pick-up point'
                                   query={{
-                                      key: 'AIzaSyADC8vNOrfbGctE3a_xcwfHUBdjzg-_8vA',
+                                      key: 'YOUR-API-KEY',
                                       language: "en",
                                   }}
                                   nearbyPlacesAPI='GooglePlacesSearch'
@@ -179,7 +179,7 @@ const Map = () => {
                   fetchDetails={true}
                   placeholder='Enter destination point'
                   query={{
-                      key: 'AIzaSyADC8vNOrfbGctE3a_xcwfHUBdjzg-_8vA',
+                      key: 'YOUR-API-KEY',
                       language: "en",
                   }}
                   nearbyPlacesAPI='GoogleReverseGeocoding'
@@ -220,7 +220,7 @@ const Map = () => {
             <MapViewDirections
                 origin={{latitude: origin.location.lat, longitude:  origin.location.lng}}
                 destination={{latitude: destination.location.lat, longitude:  destination.location.lng}}
-                apikey='AIzaSyADC8vNOrfbGctE3a_xcwfHUBdjzg-_8vA'
+                apikey='YOUR-API-KEY'
                 strokeWidth={3}
                 strokeColor='red'
                 onError={(errorMessage) => console.warn('Directions Error:', errorMessage)}
